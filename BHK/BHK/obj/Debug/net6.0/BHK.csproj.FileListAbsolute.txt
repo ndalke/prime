@@ -1,0 +1,15 @@
+C:\c#\BHK\BHK\bin\Debug\net6.0\BHK.exe
+C:\c#\BHK\BHK\bin\Debug\net6.0\BHK.deps.json
+C:\c#\BHK\BHK\bin\Debug\net6.0\BHK.runtimeconfig.json
+C:\c#\BHK\BHK\bin\Debug\net6.0\BHK.dll
+C:\c#\BHK\BHK\bin\Debug\net6.0\ref\BHK.dll
+C:\c#\BHK\BHK\bin\Debug\net6.0\BHK.pdb
+C:\c#\BHK\BHK\obj\Debug\net6.0\BHK.csproj.AssemblyReference.cache
+C:\c#\BHK\BHK\obj\Debug\net6.0\BHK.GeneratedMSBuildEditorConfig.editorconfig
+C:\c#\BHK\BHK\obj\Debug\net6.0\BHK.AssemblyInfoInputs.cache
+C:\c#\BHK\BHK\obj\Debug\net6.0\BHK.AssemblyInfo.cs
+C:\c#\BHK\BHK\obj\Debug\net6.0\BHK.csproj.CoreCompileInputs.cache
+C:\c#\BHK\BHK\obj\Debug\net6.0\BHK.dll
+C:\c#\BHK\BHK\obj\Debug\net6.0\ref\BHK.dll
+C:\c#\BHK\BHK\obj\Debug\net6.0\BHK.pdb
+C:\c#\BHK\BHK\obj\Debug\net6.0\BHK.genruntimeconfig.cache
