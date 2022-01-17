@@ -1,0 +1,15 @@
+C:\c#\BHK\Tax\bin\Debug\net6.0\Tax.exe
+C:\c#\BHK\Tax\bin\Debug\net6.0\Tax.deps.json
+C:\c#\BHK\Tax\bin\Debug\net6.0\Tax.runtimeconfig.json
+C:\c#\BHK\Tax\bin\Debug\net6.0\Tax.dll
+C:\c#\BHK\Tax\bin\Debug\net6.0\ref\Tax.dll
+C:\c#\BHK\Tax\bin\Debug\net6.0\Tax.pdb
+C:\c#\BHK\Tax\obj\Debug\net6.0\Tax.csproj.AssemblyReference.cache
+C:\c#\BHK\Tax\obj\Debug\net6.0\Tax.GeneratedMSBuildEditorConfig.editorconfig
+C:\c#\BHK\Tax\obj\Debug\net6.0\Tax.AssemblyInfoInputs.cache
+C:\c#\BHK\Tax\obj\Debug\net6.0\Tax.AssemblyInfo.cs
+C:\c#\BHK\Tax\obj\Debug\net6.0\Tax.csproj.CoreCompileInputs.cache
+C:\c#\BHK\Tax\obj\Debug\net6.0\Tax.dll
+C:\c#\BHK\Tax\obj\Debug\net6.0\ref\Tax.dll
+C:\c#\BHK\Tax\obj\Debug\net6.0\Tax.pdb
+C:\c#\BHK\Tax\obj\Debug\net6.0\Tax.genruntimeconfig.cache
