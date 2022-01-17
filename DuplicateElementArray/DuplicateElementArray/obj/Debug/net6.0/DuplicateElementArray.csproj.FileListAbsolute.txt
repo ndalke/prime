@@ -1,0 +1,15 @@
+C:\c#\DuplicateElementArray\DuplicateElementArray\bin\Debug\net6.0\DuplicateElementArray.exe
+C:\c#\DuplicateElementArray\DuplicateElementArray\bin\Debug\net6.0\DuplicateElementArray.deps.json
+C:\c#\DuplicateElementArray\DuplicateElementArray\bin\Debug\net6.0\DuplicateElementArray.runtimeconfig.json
+C:\c#\DuplicateElementArray\DuplicateElementArray\bin\Debug\net6.0\DuplicateElementArray.dll
+C:\c#\DuplicateElementArray\DuplicateElementArray\bin\Debug\net6.0\ref\DuplicateElementArray.dll
+C:\c#\DuplicateElementArray\DuplicateElementArray\bin\Debug\net6.0\DuplicateElementArray.pdb
+C:\c#\DuplicateElementArray\DuplicateElementArray\obj\Debug\net6.0\DuplicateElementArray.csproj.AssemblyReference.cache
+C:\c#\DuplicateElementArray\DuplicateElementArray\obj\Debug\net6.0\DuplicateElementArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\c#\DuplicateElementArray\DuplicateElementArray\obj\Debug\net6.0\DuplicateElementArray.AssemblyInfoInputs.cache
+C:\c#\DuplicateElementArray\DuplicateElementArray\obj\Debug\net6.0\DuplicateElementArray.AssemblyInfo.cs
+C:\c#\DuplicateElementArray\DuplicateElementArray\obj\Debug\net6.0\DuplicateElementArray.csproj.CoreCompileInputs.cache
+C:\c#\DuplicateElementArray\DuplicateElementArray\obj\Debug\net6.0\DuplicateElementArray.dll
+C:\c#\DuplicateElementArray\DuplicateElementArray\obj\Debug\net6.0\ref\DuplicateElementArray.dll
+C:\c#\DuplicateElementArray\DuplicateElementArray\obj\Debug\net6.0\DuplicateElementArray.pdb
+C:\c#\DuplicateElementArray\DuplicateElementArray\obj\Debug\net6.0\DuplicateElementArray.genruntimeconfig.cache
