@@ -1,0 +1,15 @@
+C:\c#\MaxTimeOccureEle\bin\Debug\net6.0\MaxTimeOccureEle.exe
+C:\c#\MaxTimeOccureEle\bin\Debug\net6.0\MaxTimeOccureEle.deps.json
+C:\c#\MaxTimeOccureEle\bin\Debug\net6.0\MaxTimeOccureEle.runtimeconfig.json
+C:\c#\MaxTimeOccureEle\bin\Debug\net6.0\MaxTimeOccureEle.dll
+C:\c#\MaxTimeOccureEle\bin\Debug\net6.0\ref\MaxTimeOccureEle.dll
+C:\c#\MaxTimeOccureEle\bin\Debug\net6.0\MaxTimeOccureEle.pdb
+C:\c#\MaxTimeOccureEle\obj\Debug\net6.0\MaxTimeOccureEle.csproj.AssemblyReference.cache
+C:\c#\MaxTimeOccureEle\obj\Debug\net6.0\MaxTimeOccureEle.GeneratedMSBuildEditorConfig.editorconfig
+C:\c#\MaxTimeOccureEle\obj\Debug\net6.0\MaxTimeOccureEle.AssemblyInfoInputs.cache
+C:\c#\MaxTimeOccureEle\obj\Debug\net6.0\MaxTimeOccureEle.AssemblyInfo.cs
+C:\c#\MaxTimeOccureEle\obj\Debug\net6.0\MaxTimeOccureEle.csproj.CoreCompileInputs.cache
+C:\c#\MaxTimeOccureEle\obj\Debug\net6.0\MaxTimeOccureEle.dll
+C:\c#\MaxTimeOccureEle\obj\Debug\net6.0\ref\MaxTimeOccureEle.dll
+C:\c#\MaxTimeOccureEle\obj\Debug\net6.0\MaxTimeOccureEle.pdb
+C:\c#\MaxTimeOccureEle\obj\Debug\net6.0\MaxTimeOccureEle.genruntimeconfig.cache
