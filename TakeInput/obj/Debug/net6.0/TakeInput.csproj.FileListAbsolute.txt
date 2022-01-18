@@ -1,0 +1,15 @@
+C:\c#\MultiArray\TakeInput\obj\Debug\net6.0\TakeInput.csproj.AssemblyReference.cache
+C:\c#\MultiArray\TakeInput\obj\Debug\net6.0\TakeInput.GeneratedMSBuildEditorConfig.editorconfig
+C:\c#\MultiArray\TakeInput\obj\Debug\net6.0\TakeInput.AssemblyInfoInputs.cache
+C:\c#\MultiArray\TakeInput\obj\Debug\net6.0\TakeInput.AssemblyInfo.cs
+C:\c#\MultiArray\TakeInput\obj\Debug\net6.0\TakeInput.csproj.CoreCompileInputs.cache
+C:\c#\MultiArray\TakeInput\bin\Debug\net6.0\TakeInput.exe
+C:\c#\MultiArray\TakeInput\bin\Debug\net6.0\TakeInput.deps.json
+C:\c#\MultiArray\TakeInput\bin\Debug\net6.0\TakeInput.runtimeconfig.json
+C:\c#\MultiArray\TakeInput\bin\Debug\net6.0\TakeInput.dll
+C:\c#\MultiArray\TakeInput\bin\Debug\net6.0\ref\TakeInput.dll
+C:\c#\MultiArray\TakeInput\bin\Debug\net6.0\TakeInput.pdb
+C:\c#\MultiArray\TakeInput\obj\Debug\net6.0\TakeInput.dll
+C:\c#\MultiArray\TakeInput\obj\Debug\net6.0\ref\TakeInput.dll
+C:\c#\MultiArray\TakeInput\obj\Debug\net6.0\TakeInput.pdb
+C:\c#\MultiArray\TakeInput\obj\Debug\net6.0\TakeInput.genruntimeconfig.cache
