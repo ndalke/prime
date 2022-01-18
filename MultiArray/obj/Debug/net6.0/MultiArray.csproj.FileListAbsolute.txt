@@ -1,0 +1,15 @@
+C:\c#\MultiArray\MultiArray\bin\Debug\net6.0\MultiArray.exe
+C:\c#\MultiArray\MultiArray\bin\Debug\net6.0\MultiArray.deps.json
+C:\c#\MultiArray\MultiArray\bin\Debug\net6.0\MultiArray.runtimeconfig.json
+C:\c#\MultiArray\MultiArray\bin\Debug\net6.0\MultiArray.dll
+C:\c#\MultiArray\MultiArray\bin\Debug\net6.0\ref\MultiArray.dll
+C:\c#\MultiArray\MultiArray\bin\Debug\net6.0\MultiArray.pdb
+C:\c#\MultiArray\MultiArray\obj\Debug\net6.0\MultiArray.csproj.AssemblyReference.cache
+C:\c#\MultiArray\MultiArray\obj\Debug\net6.0\MultiArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\c#\MultiArray\MultiArray\obj\Debug\net6.0\MultiArray.AssemblyInfoInputs.cache
+C:\c#\MultiArray\MultiArray\obj\Debug\net6.0\MultiArray.AssemblyInfo.cs
+C:\c#\MultiArray\MultiArray\obj\Debug\net6.0\MultiArray.csproj.CoreCompileInputs.cache
+C:\c#\MultiArray\MultiArray\obj\Debug\net6.0\MultiArray.dll
+C:\c#\MultiArray\MultiArray\obj\Debug\net6.0\ref\MultiArray.dll
+C:\c#\MultiArray\MultiArray\obj\Debug\net6.0\MultiArray.pdb
+C:\c#\MultiArray\MultiArray\obj\Debug\net6.0\MultiArray.genruntimeconfig.cache
