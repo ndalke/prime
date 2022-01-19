@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<style>
+    .div{
+        width: 100px;
+    height: 100px;
+    background-color: aqua;
+    }
+</style>
+<html lang="en">
+    <head>
+        <title>Document</title>
+    </head>
+    <body>
+        <p id="pera"></p>
+        <button onclick="document.getElementById('pera').innerHTML='HelloWorld'">Add</button>
+        <hr>
+        <p id="delete">HelloWorld</p>
+        <button onclick="document.getElementById('delete').innerHTML=''">delete</button>
+        <hr>
+        <p id="adddelete"></p>
+        <button onclick="document.getElementById('adddelete').innerHTML='hello world'">add</button>
+        <button onclick="document.getElementById('adddelete').innerHTML=''">delete</button>
+        <hr>
+        <div class="div" id="div" onmouseenter="document.getElementById('div').style.backgroundColor='red' " onmouseleave="document.getElementById('div').style.backgroundColor='yellow' " >
+     </div>
+<hr>
+<img src="off.png" alt="" id="img">
+<button onclick="document.getElementById('img').src='on.png' ">on</button>
+<button onclick="document.getElementById('img').src='off.png'">off</button>
+    </body>
+
+</html>
