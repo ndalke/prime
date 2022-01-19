@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <link rel="stylesheet" href="https://ajax.googleapis.com/ajax/libs/angular_material/1.2.1/angular-material.min.css">
+   <link href="style3.css" rel="stylesheet" />
+</head>
+
+
+<body class="body" ng-app="appName">
+    <div class="div1" ng-controller="AppCtrl" ng-cloak>
+        <!-- <h1>{{HelloWorld}}</h1> -->
+
+     
+
+                       <body>
+                        <div class="nav">
+                            <span class="HILL"><b>Hilltop</b></span>
+                            <div class="menu">
+                                
+                                    <a href="">Home</a>
+                                    <a href="">About</a>
+                                   <a href="">Service</a>
+                                   <a href="">Project</a>
+                                    <div class="dropdown">
+                                        <a href="">html</a>
+                                        <a href="">Css</a>
+                                        <a href="">Javascript</a>
+                                    </div>
+                                 
+                                   <a href="">Contact</a>
+                                </div>
+                                
+                    
+                        </div>
+                    
+                        <div class="img">
+                            <h1 class="pera" id="pera">Best<br>Properties</h1>
+                            <p class="pera">Opportunities don't happen.You create them.</p>
+                        </div>
+                        <div class="flex"><div class="ds">
+                            <div class="symbol">
+                                <img src="https://img.icons8.com/ios-glyphs/2x/home-page.png">
+                            </div>
+                            <hr>
+                            <H3 class="NEW">NEW PROJECTS</H3>
+                            <span class="NEW">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Reprehenderit quod quas molestiae
+                                aspernatur cum, nobis sed.</span>
+                    
+                    
+                        </div>
+                        <div class="ds">
+                            <div class="symbol">
+                    <img src="https://img.icons8.com/material-rounded/2x/work.png">
+                            </div>
+                            <hr>
+                            <H3 class="NEW">READY TO MOVE</H3>
+                            <span class="NEW">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Reprehenderit quod quas molestiae
+                                aspernatur cum, nobis sed.</span>
+                    
+                    
+                        </div>
+                        <div class="ds">
+                            <div class="symbol">
+                    <img src="https://img.icons8.com/glyph-neue/2x/trophy.png">
+                            </div>
+                            <hr>
+                            <H3 class="NEW">COMMERCIAL</H3>
+                            <span class="NEW">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Reprehenderit quod quas molestiae
+                                aspernatur cum, nobis sed.</span>
+                    
+                    
+                        </div>
+                        <div class="ds">
+                            <div class="symbol">
+                                <img src="https://img.icons8.com/ios-glyphs/2x/star.png">
+                            </div>
+                            <hr>
+                            <H3 class="NEW">GATED PROJECTS</H3>
+                            <span class="NEW">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Reprehenderit quod quas molestiae
+                                aspernatur cum, nobis sed.</span>
+                    
+                    
+                        </div>
+                    </div>
+                        
+                        </div>
+                    
+                    
+                    
+                    
+                    
+                    </body>
+
+
+    <!-- Angular Material Dependencies -->
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.8.2/angular.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.8.2/angular-animate.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.8.2/angular-aria.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.8.2/angular-messages.min.js"></script>
+
+    <!-- Angular Material Javascript now available via Google CDN; version 1.2.1 used here -->
+    <script src="https://ajax.googleapis.com/ajax/libs/angular_material/1.2.1/angular-material.min.js"></script>
+
+    <script type="text/javascript">
+        angular.module('appName', ['ngMaterial'])
+            .controller('AppCtrl', function ($scope) {
+
+                $scope.isDisabled = true;
+                $scope.googleUrl = 'http://google.com';
+
+                $scope.HelloWorld = "Hello World";
+
+            });
+    </script>
+</body>
+</html>
